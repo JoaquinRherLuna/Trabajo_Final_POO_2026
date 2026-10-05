@@ -1,5 +1,5 @@
 package Trabajo_Final_POO_2026.src.modelo;
 
-public class personaje { 
+public class personaje Extends entidad { 
     
 }
